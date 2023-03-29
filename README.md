@@ -4,15 +4,8 @@
 
 ### 🌿 백엔드 레벨 1
 
-```mermaid
-gantt
-    dateFormat  YYYY-MM-DD
-    section 미션
-    자동차 경주: 2023-02-07, 7d
-    사다리 타기: 2023-02-14, 10d
-```
-
 | Mission | Repository | PR1 | PR2 | 회고 |
 | --- | --- | --- | --- | --- |
 | 자동차 경주 | [java-racingcar](https://github.com/greeng00se/java-racingcar) | [1단계 - 자동차 경주 구현](https://github.com/woowacourse/java-racingcar/pull/510 ) | [2단계 - 자동차 경주 리팩터링](https://github.com/woowacourse/java-racingcar/pull/538) | [자동차 경주 회고](https://greeng00se.github.io/8/)|
-| 사다리 타기 | [java-ladder](https://github.com/greeng00se/java-ladder) | [1단계 - 사다리 생성](https://github.com/woowacourse/java-ladder/pull/97) |  |  |
+| 사다리 타기 | [java-ladder](https://github.com/greeng00se/java-ladder) | [1단계 - 사다리 생성](https://github.com/woowacourse/java-ladder/pull/97) | [2단계 - 사다리 게임 실행](https://github.com/woowacourse/java-ladder/pull/234) | [사다리 타기 회고](https://greeng00se.github.io/9/) |
+| 블랙잭 | [java-blackjack](https://github.com/greeng00se/java-blackjack) | [1단계 - 블랙잭 게임 실행](https://github.com/woowacourse/java-blackjack/pull/427) | [2단계 - 블랙잭 베팅](https://github.com/woowacourse/java-blackjack/pull/537) | [블랙잭 회고](https://greeng00se.github.io/10/) |

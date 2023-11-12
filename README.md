@@ -36,3 +36,12 @@
 | Jdbc 구현하기 | [jwp-dashboard-jdbc](https://github.com/greeng00se/jwp-dashboard-jdbc) | [1단계](https://github.com/woowacourse/jwp-dashboard-jdbc/pull/267) | [2단계](https://github.com/woowacourse/jwp-dashboard-jdbc/pull/358) | [3단계](https://github.com/woowacourse/jwp-dashboard-jdbc/pull/448) | [4단계](https://github.com/woowacourse/jwp-dashboard-jdbc/pull/515) | [Jdbc 구현 미션 회고](https://greeng00se.github.io/jdbc-retrospective) |
 | 레거시 코드 리팩터링 | [jwp-refactoring](https://github.com/greeng00se/jwp-refactoring) | [1단계](https://github.com/woowacourse/jwp-refactoring/pull/465) | [2단계](https://github.com/woowacourse/jwp-refactoring/pull/547) | [3단계](https://github.com/woowacourse/jwp-refactoring/pull/610) | [4단계](https://github.com/woowacourse/jwp-refactoring/pull/721) | [레거시 코드 리팩터링 미션 회고](https://greeng00se.github.io/refactoring-retrospective) |
 | 글쓰기 | [java-writing](https://github.com/greeng00se/woowa-writing-5/blob/main/level4.md) | [글쓰기 미션](https://github.com/woowacourse/woowa-writing-5/pull/449) | - | - | - | - |
+
+### ETC
+
+[코드리뷰 스터디](https://github.com/woowacourse-code-review-study)  
+[사이드 프로젝트 - 테코챗 서비스](https://teco.chat/)  
+[사이드 프로젝트 - 테코챗 Repository](https://github.com/teco-chat)  
+[테코톡 - 성능테스트 발표](https://www.youtube.com/watch?v=3cTn53dtzJI&t=14s)
+
+
